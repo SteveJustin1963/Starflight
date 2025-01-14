@@ -1,5 +1,12 @@
-# Starflight
-Starflight is a classic game that was first published in 1986 by Binary Systems. My code is a small MINT version of it. 
+![image](https://github.com/user-attachments/assets/03bf32d2-c81c-450d-85b4-ba6ab0864113)
+
+
+
+
+Starflight is a classic game that was first published in 1986 by Binary Systems. 
+
+
+My code will be a small MINT version of it. "A Fractal Solar System Exploration Game." 
 
 my take on game using MINT code and out put to 3d globe, circular and xyz persistence displays to enhance gameplay. synthesizer chips to make interesting sounds. 
 
