@@ -1,6 +1,8 @@
 
 my take on game using MINT code and out put to 3d globe, circular and xyz persistence displays to enhance gameplay. synthesizer chips to make interesting sounds. 
 
+# sudo
+
 ```
 BEGIN GAME
 
@@ -138,11 +140,7 @@ FUNCTION EXPLORE_LANDSCAPE(landscape)
 END FUNCTION
 ```
 
-Here’s a step-by-step walkthrough of how the game progresses based on the pseudocode:
-
----
-
-### **Walkthrough: Solar System Game**
+## **Walkthrough: Solar System Game**
 
 ---
 
