@@ -5,5 +5,6 @@
 
 Starflight is a classic game that was first published in 1986 by Binary Systems. 
 
+- ascii ver
+- mint ver tba
 
-My code will be a small MINT version of it. "A Fractal Solar System Exploration Game." 
