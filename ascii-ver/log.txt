@@ -1,0 +1,7 @@
+=== STARFLIGHT log started ===
+Galaxy initialised: 50 stars, terminal 172x43
+Ship: hull=100 shld=60 fuel=250 ru=2500
+LAUNCH: fuel=300 ru=400 crew=3
+LAUNCH: fuel=296 ru=400 crew=3
+ORBIT: star=7 (Barnard's) np=2 alien=0
+LAND: star=7 planet=0 type=Toxic
